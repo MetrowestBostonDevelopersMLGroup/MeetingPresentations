@@ -6,7 +6,8 @@ For more information about the group, see the Metrowest Boston Developers Machin
 
 | *2020* | Presentation files/links |
 |--------|--------------------------|
-| Feb 26 | Gene Olafsen: *BERT - Bidirectional Encoder Representations from Transformers* [PDF](2020/02/BERT.pdf), [PPTX](2020/02/BERT.pptx)
+| Mar 11 | Gene Olafsen: *BERT - Bidirectional Encoder Representations from Transformers* [PDF](2020/02/BERT.pdf), [PPTX](2020/02/BERT.pptx)
+| Feb 26 | Chris Winsor: *Django - Web Application Framework using Python* [PDF](2020/02/django_web_app_framework_intro.pdf), [PPTX](2020/02/django_web_app_framework_intro.pptx)
 | Feb 12 | Gene Olafsen: *Machine Unlearning* [PDF](2020/02/Machine%20Unlearning.pdf), [PPTX](2020/02/Machine%20Unlearning.pptx)
 |        | Gene Olafsen: *Reinforcement Learning Robot Update*
 | Jan 29 | Gene Olafsen: *Reinforcement Learning Robot* [PDF](2020/01/Reinforcement%20Learning%20Robot.pdf), [PPTX](2020/01/Reinforcement%20Learning%20Robot.pptx)
