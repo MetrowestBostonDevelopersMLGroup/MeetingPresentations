@@ -6,6 +6,7 @@ For more information about the group, see the Metrowest Boston Developers Machin
 
 | *2020* | Presentation files/links |
 |--------|--------------------------|
+| Apr 29 | Steve Aronson: *Big Data Analytics* [PPTX](2020/04/Big%20Data%20Architecture%20and%20APIs.pptx)
 | Mar 11 | Gene Olafsen: *BERT - Bidirectional Encoder Representations from Transformers* [PDF](2020/02/BERT.pdf), [PPTX](2020/02/BERT.pptx)
 | Feb 26 | Chris Winsor: *Django - Web Application Framework using Python* [PDF](2020/02/django_web_app_framework_intro.pdf), [PPTX](2020/02/django_web_app_framework_intro.pptx)
 | Feb 12 | Gene Olafsen: *Machine Unlearning* [PDF](2020/02/Machine%20Unlearning.pdf), [PPTX](2020/02/Machine%20Unlearning.pptx)
