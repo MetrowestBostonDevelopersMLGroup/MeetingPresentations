@@ -6,6 +6,7 @@ For more information about the group, see the Metrowest Boston Developers Machin
 
 | *2020* | Presentation files/links |
 |--------|--------------------------|
+| Apr 29 | Chris Winsor: *Django Machine Learning Web Application with Postgres DB* [PDF](2020/06/django_ML_web_app_with_postgres.pdf), [PPTX](2020/06/django_ML_web_app_with_postgres.pptx)
 | Apr 29 | Steve Aronson: *Big Data Analytics* [PPTX](2020/04/Big%20Data%20Architecture%20and%20APIs.pptx)
 | Mar 11 | Gene Olafsen: *BERT - Bidirectional Encoder Representations from Transformers* [PDF](2020/02/BERT.pdf), [PPTX](2020/02/BERT.pptx)
 | Feb 26 | Chris Winsor: *Django - Web Application Framework using Python* [PDF](2020/02/django_web_app_framework_intro.pdf), [PPTX](2020/02/django_web_app_framework_intro.pptx)
@@ -18,16 +19,15 @@ For more information about the group, see the Metrowest Boston Developers Machin
 | *2019* | Presentation files/links |
 |--------|--------------------------|
 | Dec 4  | *ML Intro and Kaggle*
-| Nov 20 | Chris Winsor: *PLAsTiCC*
+| Nov 20 | Chris Winsor: *Kaggle PLAsTiCC and B.Trotta Code Walkthrough* [PDF](2019/10/Kaggle_PLAsTiCC_and_B_Trotta_code_walk.pdf), [PPTX](2019/10/Kaggle_PLAsTiCC_and_B_Trotta_code_walk.pptx)
 |        | Scott O'Hara: *Evaluating Classifiers* (slides being revised)
-| Nov 6  | Chris Winsor: *Intro ML and PLAsTiCC*
-| Oct 23 | Gene Olafsen: *PLAsTiCC Introduction* [PDF](2019/10/PLAsTiCC%20Introduction.pdf)
+| Oct 23 | Gene Olafsen: *Kaggle PLAsTiCC Introduction* [PDF](2019/10/PLAsTiCC%20Introduction.pdf)
 | Oct 2  | Lee Scheffler: *NeurOS - A Neural Operating System and Cognitive Building Blocks* [PPTX](2019/10/NeurOS.pptx)
 | Sep 11 | Saman Amighi: *Intro to Python and Titanic* [PDF](2017/11/Introduction%20to%20Python.pdf), [PPTX](2017/11/Introduction%20to%20Python.pptx)
 | Aug 21 | Saman Amighi: *Intro to Python and Titanic* [PDF](2017/11/Introduction%20to%20Python.pdf), [PPTX](2017/11/Introduction%20to%20Python.pptx)
 | Jul 31 | Gene Olafsen: *Intro to Kaggle and the Titanic Competition* [PDF](2019/07/Introduction%20to%20Titanic%20Kaggle.pdf), [PPTX](2019/07/Introduction%20to%20Titanic%20Kaggle.pptx)
 | Jun 26 | Gene Olafsen: *Rethinking Model Scaling* [PDF](2019/06/EfficientNet%20-ConvNet%20Scaling.pdf), [PPTX](2019/06/EfficientNet%20-ConvNet%20Scaling.pptx), [Paper](https://arxiv.org/pdf/1905.11946.pdf)
-| May 15 | *DISCUSSION - 'Tri-Training: Exploiting Unlabeled Data Using Three Classifiers'* [Paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.487.2431&rep=rep1&type=pdf)
+| May 15 | Chris Winsor: *Tri-Training: Exploiting Unlabeled Data Using Three Classifiers'*, [PDF](2019/05/Tri_Training_Zhou_Li_2005.pdf), [PPT](2019/05/Tri_Training_Zhou_Li_2005.pptx), [Paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.487.2431&rep=rep1&type=pdf)
 | Mar 20 | Gene Olafsen: *DEMONSTRATION - Autonomous Driving via the "Simulated Labeled Data" Route* [PDF](2019/03/Autonomous%20Car%20Virtual%20Label%20Data.pdf), [PPTX](2019/03/Autonomous%20Car%20Virtual%20Label%20Data.pptx) |
 | Mar 6  | Gene Olafsen: *DISCUSSION - 'Machine Learning != Stats'* [PDF](2019/03/Machine%20Learning%20!=Stats.pdf), [PPTX](2019/03/Machine%20Learning%20!=Stats.pptx), [Link](https://towardsdatascience.com/no-machine-learning-is-not-just-glorified-statistics-26d3952234e3) |
 |        | Scott O'Hara: *DISCUSSION - 'Introduction to Deep Reinforcement Learning'*, [PDF](https://github.com/seohara1955/Presentations/blob/master/Metrowest%20Developers%20ML%20Group%202019-03-06/MIT%20Deep%20RL%20Lecture%20Summary.pdf), [PPTX](https://github.com/seohara1955/Presentations/blob/master/Metrowest%20Developers%20ML%20Group%202019-03-06/MIT%20Deep%20RL%20Lecture%20Summary.pptx), [Original Lex Fridman Slides](https://github.com/seohara1955/Presentations/blob/master/Metrowest%20Developers%20ML%20Group%202019-03-06/deep_rl_intro.pdf)
