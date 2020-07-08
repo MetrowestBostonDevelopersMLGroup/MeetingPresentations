@@ -6,6 +6,7 @@ For more information about the group, see the Metrowest Boston Developers Machin
 
 | *2020* | Presentation files/links |
 |--------|--------------------------|
+| Jul 07 | Steve Aronson: *Robot Learning Update* [PPTX](2020/07/Robot%20Learning%20Update%202020-07-08.pptx)
 | Apr 29 | Chris Winsor: *Django Machine Learning Web Application with Postgres DB* [PDF](2020/06/django_ML_web_app_with_postgres.pdf), [PPTX](2020/06/django_ML_web_app_with_postgres.pptx)
 | Apr 29 | Steve Aronson: *Big Data Analytics* [PPTX](2020/04/Big%20Data%20Architecture%20and%20APIs.pptx)
 | Mar 11 | Gene Olafsen: *BERT - Bidirectional Encoder Representations from Transformers* [PDF](2020/02/BERT.pdf), [PPTX](2020/02/BERT.pptx)
