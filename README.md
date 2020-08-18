@@ -1,15 +1,15 @@
- # Metrowest Boston Developers Machine Learning Group
-    Collateral associated with meetings
+# Metrowest Boston Developers Machine Learning Group
+ Collateral associated with meetings
 
-    For more information about the group, see the Metrowest Boston Developers Machine Learning Group [Meetup Page](https://www.meetup.com/Natick-Artificial-Intelligence-Meetup/)
+For more information about the group, see the Metrowest Boston Developers Machine Learning Group [Meetup Page](https://www.meetup.com/Natick-Artificial-Intelligence-Meetup/)
 
-    | *2020* | Presentation files/links                                                                                              |
-    |--------|-----------------------------------------------------------------------------------------------------------------------|
-    | Aug 19 |
-    | Aug 5  | Gene Olafsen: Introduction to CML [PDF](2020/08/Introduction%20to%20CML.pdf), [PPTX](2020/08/Introduction%20to%20CML.pptx)
-    |        | Gene Olafsen: Introducing GPT-3 [PDF](2020/08/Introducing%20GPT-3.pdf), [PPTX](2020/08/Introducing%20GPT-3.pptx)
-    | Jul 22 | Gene Olafsen: Reinforcement Learning Robot Update [PDF](2020/07/Reinforcement%20Learning%20Robot%20Update.pdf), [PPTX](2020/07/Reinforcement%20Learning%20Robot%20Update.pptx)
-    |        | Gene Olafsen: ML and Product Management [PDF](2020/07/ML%20and%20Product%20Management.pdf), [PPTX](2020/07/ML%20and%20Product%20Management.pptx)
+| *2020* | Presentation files/links                                                                                              |
+|--------|-----------------------------------------------------------------------------------------------------------------------|
+| Aug 19 |
+| Aug 5  | Gene Olafsen: Introduction to CML [PDF](2020/08/Introduction%20to%20CML.pdf), [PPTX](2020/08/Introduction%20to%20CML.pptx)
+|        | Gene Olafsen: Introducing GPT-3 [PDF](2020/08/Introducing%20GPT-3.pdf), [PPTX](2020/08/Introducing%20GPT-3.pptx)
+| Jul 22 | Gene Olafsen: Reinforcement Learning Robot Update [PDF](2020/07/Reinforcement%20Learning%20Robot%20Update.pdf), [PPTX](2020/07/Reinforcement%20Learning%20Robot%20Update.pptx)
+|        | Gene Olafsen: ML and Product Management [PDF](2020/07/ML%20and%20Product%20Management.pdf), [PPTX](2020/07/ML%20and%20Product%20Management.pptx)
     | Jul 8  | Gene Olafsen: ML Training 50X Moore's Law [PDF](2020/07/Training%2050X%20Moore's%20Law.pdf), [PPTX](2020/07/Training%2050X%20Moore's%20Law.pptx)
     |        | Steve Aronson: *Robot Learning Update* [PPTX](2020/07/Robot%20Learning%20Update%202020-07-08.pptx)
     | Jun 24 | Chris Windsor: Django ML Web Application with Postgres [PDF](2020/06/django_ML_web_app_with_postgres.pdf), [PPTX](2020/06/django_ML_web_app_with_postgres.pptx)
