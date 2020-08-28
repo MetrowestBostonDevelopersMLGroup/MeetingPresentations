@@ -1,20 +1,38 @@
 # Metrowest Boston Developers Machine Learning Group
-Collateral associated with meetings
+
+## Collateral associated with meetings
+
 
 For more information about the group, see the Metrowest Boston Developers Machine Learning Group [Meetup Page](https://www.meetup.com/Natick-Artificial-Intelligence-Meetup/)
 
-
 | *2020* | Presentation files/links |
 |--------|--------------------------|
-| Jul 07 | Steve Aronson: *Robot Learning Update* [PPTX](2020/07/Robot%20Learning%20Update%202020-07-08.pptx)
-| Apr 29 | Chris Winsor: *Django Machine Learning Web Application with Postgres DB* [PDF](2020/06/django_ML_web_app_with_postgres.pdf), [PPTX](2020/06/django_ML_web_app_with_postgres.pptx)
+| Aug 19 | Scott O'Hara: *DISCUSSION - Can GPT-3 Make Analogies?* [Link](https://medium.com/@melaniemitchell.me/can-gpt-3-make-analogies-16436605c446)
+| Aug 5  | Gene Olafsen: *Introduction to CML* [PDF](2020/08/Introduction%20to%20CML.pdf), [PPTX](2020/08/Introduction%20to%20CML.pptx)
+|        | Gene Olafsen: *Introducing GPT-3* [PDF](2020/08/Introducing%20GPT-3.pdf), [PPTX](2020/08/Introducing%20GPT-3.pptx)
+| Jul 22 | Gene Olafsen: *Reinforcement Learning Robot Update* [PDF](2020/07/Reinforcement%20Learning%20Robot%20Update.pdf), [PPTX](2020/07/Reinforcement%20Learning%20Robot%20Update.pptx)
+|        | Gene Olafsen: *ML and Product Management* [PDF](2020/07/ML%20and%20Product%20Management.pdf), [PPTX](2020/07/ML%20and%20Product%20Management.pptx)
+| Jul 08 | Gene Olafsen: *ML Training 50X Moore's Law* [PDF](2020/07/Training%2050X%20Moore's%20Law.pdf), [PPTX](2020/07/Training%2050X%20Moore's%20Law.pptx)
+|        | Steve Aronson: *Robot Learning Update* [PPTX](2020/07/Robot%20Learning%20Update%202020-07-08.pptx)
+|        | Scott O'Hara: *Three Temporal-Difference Learning Algorithms* [PDF](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-07-08/three-td-learning-algos.pdf), [PPTX](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-07-08/three-td-learning-algos.pptx)
+| Jun 24 | Chris Winsor: *Django Machine Learning Web Application with Postgres DB* [PDF](2020/06/django_ML_web_app_with_postgres.pdf), [PPTX](2020/06/django_ML_web_app_with_postgres.pptx)
+|        | Scott O'Hara: *Temporal-Difference Learning* [PDF](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-06-24/td-learning.pdf), [PPTX](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-06-24/td-learning.pptx)
+| Jun 10 | Scott O'Hara: *Approximate Q-Learning* [PDF](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-06-10/approximate-q-learning.pdf), [PPTX](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-06-10/approximate-q-learning.pptx)
+| May 27 | Gene Olafsen: *Real World Reinforcement Learning* [PDF](2020/05/Real%20World%20Reinforcement%20Learning.pdf), [PDF](2020/05/Real%20World%20Reinforcement%20Learning.pptx)
+|        | Scott O'Hara *Does AI = DNN + RL?* [PDF](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-05-27/Does%20AI=DNN+RL%20(revised).pdf)
+| May 13 | Gene Olafsen: *Reinforcement Learning Robot* [PDF](2020/05/Reinforcement%20Learning%20Robot.pdf), [PPTX](2020/05/Reinforcement%20Learning%20Robot.pptx)
+|        | Scott O'Hara: *Introduction to Q-Learning* [PDF](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-05-13/intro-to-q-learning.pdf), [PPTX](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-05-13/intro-to-q-learning.pptx)
 | Apr 29 | Steve Aronson: *Big Data Analytics* [PPTX](2020/04/Big%20Data%20Architecture%20and%20APIs.pptx)
-| Mar 11 | Gene Olafsen: *BERT - Bidirectional Encoder Representations from Transformers* [PDF](2020/02/BERT.pdf), [PPTX](2020/02/BERT.pptx)
+|        | Scott O'Hara: *Review of Coursera Reinforcement Learning Specialization* [PDF](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-04-29/Coursera%20RL%20Specialization.pdf), [DOCX](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-04-29/Coursera%20RL%20Specialization.docx), [Videos](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-04-29/)
+| Mar 11 | Gene Olafsen: *AI Business* [PDF](2020/03/AI%20Business.pdf), [PPTX](2020/03/AI%20Business.pptx)
+|        | Gene Olafsen: *BERT - Bidirectional Encoder Representations from Transformers* [PDF](2020/02/BERT.pdf), [PPTX](2020/02/BERT.pptx)
 | Feb 26 | Chris Winsor: *Django - Web Application Framework using Python* [PDF](2020/02/django_web_app_framework_intro.pdf), [PPTX](2020/02/django_web_app_framework_intro.pptx)
+|        | Scott O'Hara: *Model-based Reinforcement Learning* [PDF](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-02-26/model-based-rl.pdf), [PPTX](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-02-26/model-based-rl.pptx)
 | Feb 12 | Gene Olafsen: *Machine Unlearning* [PDF](2020/02/Machine%20Unlearning.pdf), [PPTX](2020/02/Machine%20Unlearning.pptx)
 |        | Gene Olafsen: *Reinforcement Learning Robot Update*
+|        | Scott O'Hara: *Multi-Armed Bandits* [PDF](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-02-12/multi-armed-bandits.pdf), [PPTX](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-02-12/multi-armed-bandits.pptx)
 | Jan 29 | Gene Olafsen: *Reinforcement Learning Robot* [PDF](2020/01/Reinforcement%20Learning%20Robot.pdf), [PPTX](2020/01/Reinforcement%20Learning%20Robot.pptx)
-|        | Scott O'Hara: *Introduction to Reinforcement Learning* (slides being revised)
+|        | Scott O'Hara: *Introduction to Reinforcement Learning* [PDF](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-01-29/intro-to-rl.pdf), [PPTX](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-01-29/intro-to-rl.pptx)
 | Jan 15 | Gene Olafsen: *Gauge Equivariant CNNs* [PDF](2020/01/Gauge%20Equivariant%20CNNs.pdf), [PPTX](2020/01/Gauge%20Equivariant%20CNNs.pptx), [Link](https://www.quantamagazine.org/an-idea-from-physics-helps-ai-see-in-higher-dimensions-20200109/)
 
 | *2019* | Presentation files/links |
