@@ -7,6 +7,7 @@ For more information about the group, see the Metrowest Boston Developers Machin
 | *2020* | Presentation files/links |
 |--------|--------------------------|
 | Sep 2  | Steve Aronson: *Evolution Strategies* [PPTX](2020/09/Evolution%20Strategies%202020-09-02.pptx)
+|        | Scott O'Hara *Developing a Simple Reinforcement Learning Program in Python* [PDF](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-09-02/simple-rl-glue-app.pdf), [PPTX](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-09-02/simple-rl-glue-app.pptx)
 | Aug 19 | Scott O'Hara: *DISCUSSION - Can GPT-3 Make Analogies?* [Link](https://medium.com/@melaniemitchell.me/can-gpt-3-make-analogies-16436605c446)
 | Aug 5  | Gene Olafsen: *Introduction to CML* [PDF](2020/08/Introduction%20to%20CML.pdf), [PPTX](2020/08/Introduction%20to%20CML.pptx)
 |        | Gene Olafsen: *Introducing GPT-3* [PDF](2020/08/Introducing%20GPT-3.pdf), [PPTX](2020/08/Introducing%20GPT-3.pptx)
