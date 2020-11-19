@@ -6,6 +6,7 @@ For more information about the group, see the Metrowest Boston Developers Machin
 
 | *2020* | Presentation files/links |
 |--------|--------------------------|
+| Nov 18 | Steve Aronson: *Language Modeling LSTM vs. Transformer* [PPTX](2020/011/Language%20Modeling%20LSTM%20vs.%20Transformer.pptx)
 | Sep 17 | Presentations to Dell Technologies
 |        | Gene Olafsen: *Welcome to the MetroWest Boston Developers Machine Learning Group*  [PPTX](Introduction%20to%20MWD-MLG.pptx)
 |        | Gene Olafsen: *Introduction to Machine Learning* [PPTX](2020/09/Introduction%20to%20ML.pptx)
