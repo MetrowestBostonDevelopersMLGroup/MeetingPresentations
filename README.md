@@ -6,7 +6,9 @@ For more information about the group, see the Metrowest Boston Developers Machin
 
 | *2020* | Presentation files/links |
 |--------|--------------------------|
-| Nov 18 | Steve Aronson: *Language Modeling LSTM vs. Transformer* [PPTX](2020/011/Language%20Modeling%20LSTM%20vs.%20Transformer.pptx)
+| Dec 16 | Gene Olafsen: *Multivariate Temporal Autoencoder for Predictive Reconstruction of Deep Sequences* [PPTX](2020/12/Multivariate%20Deep%20Sequences.pptx) [PDF](2020/12/Multivariate%20Deep%20Sequences.pdf)
+| Dec 16 | Gene Olafsen: *Pytorch Autograd* [PPTX](2020/12/PyTorch%20AutoGrad.pptx) [PDF](2020/12/PyTorch%20AutoGrad.pdf)
+| Nov 18 | Steve Aronson: *Language Modeling LSTM vs. Transformer* [PPTX](2020/11/Language%20Modeling%20LSTM%20vs.%20Transformer.pptx)
 | Sep 17 | Presentations to Dell Technologies
 |        | Gene Olafsen: *Welcome to the MetroWest Boston Developers Machine Learning Group*  [PPTX](Introduction%20to%20MWD-MLG.pptx)
 |        | Gene Olafsen: *Introduction to Machine Learning* [PPTX](2020/09/Introduction%20to%20ML.pptx)
