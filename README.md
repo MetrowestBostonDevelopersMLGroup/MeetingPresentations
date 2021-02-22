@@ -4,6 +4,14 @@
 
 For more information about the group, see the Metrowest Boston Developers Machine Learning Group [Meetup Page](https://www.meetup.com/Natick-Artificial-Intelligence-Meetup/)
 
+| *2021* | Presentation files/links |
+|--------|--------------------------|
+| Feb 17 | Steve Aronson: *Facebook Detectron2* [PPTX](2021/02/Detectron2%20Intro.pptx)
+|        | Gene Olafsen: *Recommendation System - VSCode and Docker* [PPTX](2021/02/VSCodeDocker%20Recommendation%20Setup.pptx) [PDF](2021/02/VSCodeDocker%20Recommendation%20Setup.pdf)
+| Jan 27 | Gene Olafsen: *Recommendation System - Project Overview* [PPTX](2021/01/Recommendation%20System%20Project%20Overview.pptx) [PDF](2021/01/Recommendation%20System%20Project%20Overview.pdf)
+|        | Gene Olafsen: *Multivariate Deep Sequence Additional Noise and Impulse Functions* [PPTX](2021/01/Multivariate%20Deep%20Sequences%20Noise%20and%20Impulse.pptx) [PDF](2021/01/Multivariate%20Deep%20Sequences%20Noise%20and%20Impulse.pdf)
+
+
 | *2020* | Presentation files/links |
 |--------|--------------------------|
 | Dec 16 | Gene Olafsen: *Multivariate Temporal Autoencoder for Predictive Reconstruction of Deep Sequences* [PPTX](2020/12/Multivariate%20Deep%20Sequences.pptx) [PDF](2020/12/Multivariate%20Deep%20Sequences.pdf)
