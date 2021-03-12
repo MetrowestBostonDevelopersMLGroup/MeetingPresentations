@@ -10,7 +10,8 @@ For more information about the group, see the Metrowest Boston Developers Machin
 |        | Gene Olafsen: *Recommendation System - VSCode and Docker* [PPTX](2021/02/VSCodeDocker%20Recommendation%20Setup.pptx) [PDF](2021/02/VSCodeDocker%20Recommendation%20Setup.pdf)
 | Jan 27 | Gene Olafsen: *Recommendation System - Project Overview* [PPTX](2021/01/Recommendation%20System%20Project%20Overview.pptx) [PDF](2021/01/Recommendation%20System%20Project%20Overview.pdf)
 |        | Gene Olafsen: *Multivariate Deep Sequence Additional Noise and Impulse Functions* [PPTX](2021/01/Multivariate%20Deep%20Sequences%20Noise%20and%20Impulse.pptx) [PDF](2021/01/Multivariate%20Deep%20Sequences%20Noise%20and%20Impulse.pdf)
-
+| Jan 13 | Presentations to Dell Technologies:
+|        | Scott O'Hara: *Anatomy of a Learning Algorithm* [PDF](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-dell/2021-01-13/Anatomy-of-a-Learning-Algorithm.pdf), [PPTX](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-dell/2021-01-13/Anatomy-of-a-Learning-Algorithm.pptx), [Folder](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-dell/2021-01-13/)
 
 | *2020* | Presentation files/links |
 |--------|--------------------------|
@@ -19,7 +20,7 @@ For more information about the group, see the Metrowest Boston Developers Machin
 | Nov 18 | Steve Aronson: *Language Modeling LSTM vs. Transformer* [PPTX](2020/11/Language%20Modeling%20LSTM%20vs.%20Transformer.pptx)
 |        | Scott O'Hara: *The 100 Page Machine Learning Book* [PDF](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-11-18/The-100-page-ML-Book.pdf), [PPTX](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-11-18/The-100-page-ML-Book.pptx)
 | Sep 30 | Scott O'Hara: *DISCUSSION - A Few Useful Things to Know about ML* [PDF](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-09-30/Discuss%20-%20A%20Few%20Useful%20Things%20to%20Know%20about%20ML.pdf), [PPTX](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-09-30/Discuss%20-%20A%20Few%20Useful%20Things%20to%20Know%20about%20ML.pptx), [Paper](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-09-30/cacm12.pdf)
-| Sep 17 | Presentations to Dell Technologies
+| Sep 17 | Presentations to Dell Technologies:
 |        | Gene Olafsen: *Welcome to the MetroWest Boston Developers Machine Learning Group*  [PPTX](Introduction%20to%20MWD-MLG.pptx)
 |        | Gene Olafsen: *Introduction to Machine Learning* [PPTX](2020/09/Introduction%20to%20ML.pptx)
 |        | Steve Aronson: *Modeling Data Using Simple Graphs* [PPTX](2020/09/Transforming%20Raw%20Inputs%20into%20Machine%20Learnable%20Data.pptx)
