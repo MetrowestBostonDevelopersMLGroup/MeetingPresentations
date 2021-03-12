@@ -6,8 +6,10 @@ For more information about the group, see the Metrowest Boston Developers Machin
 
 | *2021* | Presentation files/links |
 |--------|--------------------------|
+| Mar 3  | Scott O'Hara: *Introducing Clustering Algorithms* [PDF](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2021-03-03/intro-clustering-algorithms.pdf), [PPTX](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2021-03-03/intro-clustering-algorithms.pptx)
 | Feb 17 | Steve Aronson: *Facebook Detectron2* [PPTX](2021/02/Detectron2%20Intro.pptx)
 |        | Gene Olafsen: *Recommendation System - VSCode and Docker* [PPTX](2021/02/VSCodeDocker%20Recommendation%20Setup.pptx) [PDF](2021/02/VSCodeDocker%20Recommendation%20Setup.pdf)
+|        | Scott O'Hara: *Introducing Unsupervised Learning* [PDF](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2021-02-17/intro-unsupervised-learning.pdf), [PPTX](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2021-02-17/intro-unsupervised-learning.pptx)
 | Jan 27 | Gene Olafsen: *Recommendation System - Project Overview* [PPTX](2021/01/Recommendation%20System%20Project%20Overview.pptx) [PDF](2021/01/Recommendation%20System%20Project%20Overview.pdf)
 |        | Gene Olafsen: *Multivariate Deep Sequence Additional Noise and Impulse Functions* [PPTX](2021/01/Multivariate%20Deep%20Sequences%20Noise%20and%20Impulse.pptx) [PDF](2021/01/Multivariate%20Deep%20Sequences%20Noise%20and%20Impulse.pdf)
 | Jan 13 | Presentations to Dell Technologies:
@@ -21,7 +23,7 @@ For more information about the group, see the Metrowest Boston Developers Machin
 |        | Scott O'Hara: *The 100 Page Machine Learning Book* [PDF](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-11-18/The-100-page-ML-Book.pdf), [PPTX](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-11-18/The-100-page-ML-Book.pptx)
 | Sep 30 | Scott O'Hara: *DISCUSSION - A Few Useful Things to Know about ML* [PDF](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-09-30/Discuss%20-%20A%20Few%20Useful%20Things%20to%20Know%20about%20ML.pdf), [PPTX](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-09-30/Discuss%20-%20A%20Few%20Useful%20Things%20to%20Know%20about%20ML.pptx), [Paper](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-09-30/cacm12.pdf)
 | Sep 17 | Presentations to Dell Technologies:
-|        | Gene Olafsen: *Welcome to the MetroWest Boston Developers Machine Learning Group*  [PPTX](Introduction%20to%20MWD-MLG.pptx)
+|        | Gene Olafsen: *Welcome to the MetroWest Boston Developers Machine Learning Group* [PPTX](Introduction%20to%20MWD-MLG.pptx)
 |        | Gene Olafsen: *Introduction to Machine Learning* [PPTX](2020/09/Introduction%20to%20ML.pptx)
 |        | Steve Aronson: *Modeling Data Using Simple Graphs* [PPTX](2020/09/Transforming%20Raw%20Inputs%20into%20Machine%20Learnable%20Data.pptx)
 |        | Scott O'Hara: *A Taste of Supervised Learning* [ZIP](2020/09/taste-of-supv-learning.zip), [HTML Slides](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-dell/2020-09-17/taste-of-supv-learning/taste-of-supv-learning.slides.html), [Notebook](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-dell/2020-09-17/taste-of-supv-learning/taste-of-supv-learning.ipynb), [Folder](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-dell/2020-09-17/taste-of-supv-learning/)
