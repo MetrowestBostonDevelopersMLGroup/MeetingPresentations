@@ -21,7 +21,7 @@ For more information about the group, see the Metrowest Boston Developers Machin
 |        | Gene Olafsen: *Welcome to the MetroWest Boston Developers Machine Learning Group*  [PPTX](Introduction%20to%20MWD-MLG.pptx)
 |        | Gene Olafsen: *Introduction to Machine Learning* [PPTX](2020/09/Introduction%20to%20ML.pptx)
 |        | Steve Aronson: *Modeling Data Using Simple Graphs* [PPTX](2020/09/Transforming%20Raw%20Inputs%20into%20Machine%20Learnable%20Data.pptx)
-|        | Scott O'Hara: *A Taste of Supervised Learning* [ZIP](2020/09/taste-of-supv-learning.zip)
+|        | Scott O'Hara: *A Taste of Supervised Learning* [ZIP](2020/09/taste-of-supv-learning.zip), [HTML Slides](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-dell/2020-09-17/taste-of-supv-learning/taste-of-supv-learning.slides.html), [Notebook](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-dell/2020-09-17/taste-of-supv-learning/taste-of-supv-learning.ipynb), [Folder](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-dell/2020-09-17/taste-of-supv-learning/)
 | Sep 2  | Steve Aronson: *Evolution Strategies* [PPTX](2020/09/Evolution%20Strategies%202020-09-02.pptx)
 |        | Scott O'Hara *Developing a Simple Reinforcement Learning Program in Python* [PDF](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-09-02/simple-rl-glue-app.pdf), [PPTX](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-09-02/simple-rl-glue-app.pptx)
 | Aug 19 | Scott O'Hara: *DISCUSSION - Can GPT-3 Make Analogies?* [Link](https://medium.com/@melaniemitchell.me/can-gpt-3-make-analogies-16436605c446)
