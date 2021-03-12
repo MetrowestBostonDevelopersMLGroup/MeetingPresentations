@@ -17,6 +17,7 @@ For more information about the group, see the Metrowest Boston Developers Machin
 | Dec 16 | Gene Olafsen: *Multivariate Temporal Autoencoder for Predictive Reconstruction of Deep Sequences* [PPTX](2020/12/Multivariate%20Deep%20Sequences.pptx) [PDF](2020/12/Multivariate%20Deep%20Sequences.pdf)
 | Dec 16 | Gene Olafsen: *Pytorch Autograd* [PPTX](2020/12/PyTorch%20AutoGrad.pptx) [PDF](2020/12/PyTorch%20AutoGrad.pdf)
 | Nov 18 | Steve Aronson: *Language Modeling LSTM vs. Transformer* [PPTX](2020/11/Language%20Modeling%20LSTM%20vs.%20Transformer.pptx)
+|        | Scott O'Hara: *The 100 Page Machine Learning Book* [PDF](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-11-18/The-100-page-ML-Book.pdf), [PPTX](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-11-18/The-100-page-ML-Book.pptx)
 | Sep 30 | Scott O'Hara: *DISCUSSION - A Few Useful Things to Know about ML* [PDF](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-09-30/Discuss%20-%20A%20Few%20Useful%20Things%20to%20Know%20about%20ML.pdf), [PPTX](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-09-30/Discuss%20-%20A%20Few%20Useful%20Things%20to%20Know%20about%20ML.pptx), [Paper](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2020-09-30/cacm12.pdf)
 | Sep 17 | Presentations to Dell Technologies
 |        | Gene Olafsen: *Welcome to the MetroWest Boston Developers Machine Learning Group*  [PPTX](Introduction%20to%20MWD-MLG.pptx)
