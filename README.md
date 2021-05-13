@@ -6,6 +6,11 @@ For more information about the group, see the Metrowest Boston Developers Machin
 
 | *2021* | Presentation files/links |
 |--------|--------------------------|
+| May 12 | Gene Olafsen: *Kepler - Static Typing and Submitting Code with Git* [PPTX](2021/05/KeplerStaticCodeAndGit.pptx) [PDF](2021/05/KeplerStaticCodeAndGit.pdf) 
+| Apr 28 | Gene Olafsen: *Kepler - Design and UI* [PPTX](2021/04/Kepler%20Design%20and%20UI.pptx) [PDF](2021/04/Kepler%20Desig%20and%20UI.pdf)
+| Apr 14 | Gene Olafsen: *Kepler - API* [PPTX](2021/04/Kepler%API.pptx) [PDF](2021/04/Kepler%20API.pdf)
+| Mar 31 | Gene Olafsen: *Kepler - Flask, REST JSON* [PPTX](2021/03/Recommendation%20System,%20Flask,%20REST,%20JSON.pptx) [PDF](2021/03/Recommendation%20System,%20Flask,%20REST,%20JSON.pdf)
+| Mar 17 | Gene Olafsen: *Kepler - Flask, REST JSON* [PPTX](2021/03/Recommendation%20System,%20Flask,%20REST,%20JSON.pptx) [PDF](2021/03/Recommendation%20System,%20Flask,%20REST,%20JSON.pdf)
 | Mar 3  | Scott O'Hara: *Introducing Clustering Algorithms* [PDF](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2021-03-03/intro-clustering-algorithms.pdf), [PPTX](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2021-03-03/intro-clustering-algorithms.pptx)
 | Feb 17 | Steve Aronson: *Facebook Detectron2* [PPTX](2021/02/Detectron2%20Intro.pptx)
 |        | Gene Olafsen: *Recommendation System - VSCode and Docker* [PPTX](2021/02/VSCodeDocker%20Recommendation%20Setup.pptx) [PDF](2021/02/VSCodeDocker%20Recommendation%20Setup.pdf)
