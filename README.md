@@ -6,6 +6,7 @@ For more information about the group, see the Metrowest Boston Developers Machin
 
 | *2021* | Presentation files/links |
 |--------|--------------------------|
+| June 16 | Chris Winsor: *Knowledge Graphs and Embedings* [PPTX](2021/06/Knowledge_Graphs_and_Embeddings.pptx) [PDF](2021/06/Knowledge_Graphs_and_Embeddings.pdf)
 | May 12 | Gene Olafsen: *Kepler - Static Typing and Submitting Code with Git* [PPTX](2021/05/KeplerStaticCodeAndGit.pptx) [PDF](2021/05/KeplerStaticCodeAndGit.pdf) 
 | Apr 28 | Gene Olafsen: *Kepler - Design and UI* [PPTX](2021/04/Kepler%20Design%20and%20UI.pptx) [PDF](2021/04/Kepler%20Design%20and%20UI.pdf)
 | Apr 14 | Gene Olafsen: *Kepler - API* [PPTX](2021/04/Kepler%API.pptx) [PDF](2021/04/Kepler%20API.pdf)
