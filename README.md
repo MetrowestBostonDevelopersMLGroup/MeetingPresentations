@@ -6,12 +6,17 @@ For more information about the group, see the Metrowest Boston Developers Machin
 
 | *2021* | Presentation files/links |
 |--------|--------------------------|
-| June 16 | Chris Winsor: *Knowledge Graphs and Embedings* [PPTX](2021/06/Knowledge_Graphs_and_Embeddings.pptx) [PDF](2021/06/Knowledge_Graphs_and_Embeddings.pdf)
-| May 12 | Gene Olafsen: *Kepler - Static Typing and Submitting Code with Git* [PPTX](2021/05/KeplerStaticCodeAndGit.pptx) [PDF](2021/05/KeplerStaticCodeAndGit.pdf) 
+| Jun 16 | Chris Winsor: *Knowledge Graphs and Embeddings* [PPTX](2021/06/Knowledge_Graphs_and_Embeddings.pptx) [PDF](2021/06/Knowledge_Graphs_and_Embeddings.pdf)
+| Jun 02 | Scott O'Hara: *Innateness, Inductive Bias and AI (Work in Progress)* [PPTX](https://github.com/seohara1955/Presentations/blob/master/mw-defs-ml-grp/2021-06-02/innateness_inductive_bias_ai.pptx) [PDF](https://github.com/seohara1955/Presentations/blob/master/mw-defs-ml-grp/2021-06-02/innateness_inductive_bias_ai.pdf)
+| May 12 | Gene Olafsen: *Kepler - Static Typing and Submitting Code with Git* [PPTX](2021/05/KeplerStaticCodeAndGit.pptx) [PDF](2021/05/KeplerStaticCodeAndGit.pdf)
+|        | Scott O'Hara: *Introducing Retrieval Algorithms* [PPTX](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2021-05-12/introducing-retrieval-algorithms.pptx) [PDF](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2021-05-12/introducing-retrieval-algorithms.pdf)
 | Apr 28 | Gene Olafsen: *Kepler - Design and UI* [PPTX](2021/04/Kepler%20Design%20and%20UI.pptx) [PDF](2021/04/Kepler%20Design%20and%20UI.pdf)
-| Apr 14 | Gene Olafsen: *Kepler - API* [PPTX](2021/04/Kepler%API.pptx) [PDF](2021/04/Kepler%20API.pdf)
+|        | Scott O'Hara: *Introducing Recommendation Systems* [PPTX](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2021-04-28/intro-recommendation-systems.pptx) [PDF](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2021-04-28/intro-recommendation-systems.pdf)
+| Apr 14 | *Introduction to Knowledge Graphs with Grakn and Graql* [grakn.ai](https://grakn.ai/) [Q&A](2021/04/grakn_q_and_a.txt)
+|        | Gene Olafsen: *Kepler - API* [PPTX](2021/04/Kepler%API.pptx) [PDF](2021/04/Kepler%20API.pdf)
 | Mar 31 | Gene Olafsen: *Kepler - Flask, REST JSON* [PPTX](2021/03/Recommendation%20System,%20Flask,%20REST,%20JSON.pptx) [PDF](2021/03/Recommendation%20System,%20Flask,%20REST,%20JSON.pdf)
 | Mar 17 | Gene Olafsen: *Kepler - Flask, REST JSON* [PPTX](2021/03/Recommendation%20System,%20Flask,%20REST,%20JSON.pptx) [PDF](2021/03/Recommendation%20System,%20Flask,%20REST,%20JSON.pdf)
+|        | Scott O'Hara: *Gaussian Mixture Models* [PPTX](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2021-03-17/gaussian-mixture-models.pptx) [PDF](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2021-03-17/gaussian-mixture-models.pdf)
 | Mar 3  | Scott O'Hara: *Introducing Clustering Algorithms* [PDF](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2021-03-03/intro-clustering-algorithms.pdf), [PPTX](https://github.com/seohara1955/Presentations/blob/master/mw-devs-ml-grp/2021-03-03/intro-clustering-algorithms.pptx)
 | Feb 17 | Steve Aronson: *Facebook Detectron2* [PPTX](2021/02/Detectron2%20Intro.pptx)
 |        | Gene Olafsen: *Recommendation System - VSCode and Docker* [PPTX](2021/02/VSCodeDocker%20Recommendation%20Setup.pptx) [PDF](2021/02/VSCodeDocker%20Recommendation%20Setup.pdf)

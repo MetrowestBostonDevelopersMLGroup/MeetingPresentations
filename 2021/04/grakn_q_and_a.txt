@@ -1,0 +1,27 @@
+19:10:02 From  Daniel Crowe  to  Everyone : Thank you for having us all
+19:10:16 From  Daniel Crowe  to  Everyone : https://community.grakn.ai/grakn-orbit-2021
+19:10:27 From  Daniel Crowe  to  Everyone : https://grakn.ai/discord
+19:14:07 From  Alan  to  Everyone : predicate logic
+19:19:19 From  Daniel Crowe  to  Everyone : https://www.youtube.com/watch?v=s6xGQS84qKM&list=PLtEF8_xCPklZQWZVYtfw7K-WuiE_Uk5PE&index=9
+19:19:26 From  Daniel Crowe  to  Everyone : Comparing RDF to Grakn ^^
+19:20:05 From  Daniel Crowe  to  Everyone : https://www.youtube.com/watch?v=rNCvAGdiw1I
+19:20:10 From  Daniel Crowe  to  Everyone : Comparing SQL to Graql
+19:38:11 From  Lee Scheffler  to  Everyone : How does the sibling rule ensure that the two children are DIFFERENT?
+19:38:47 From  Daniel Crowe  to  Everyone : You would add a `not { $child != $child2;};`
+19:42:06 From  Daniel Crowe  to  Everyone : https://github.com/graknlabs/grakn
+19:42:54 From  Daniel Crowe  to  Everyone : https://community.grakn.ai/grakn-orbit-2021
+19:43:19 From  Scott O'Hara  to  Everyone : How does Grakn/grakl relate to Prolog/logic programming?
+19:43:57 From  Daniel Crowe  to  Everyone : Our research in ML over a knowledge graph - https://github.com/graknlabs/kglib
+19:44:32 From  Scott O'Hara  to  Everyone : Can you imagine scenarios where Grakn might interface with deep learning systems?
+19:46:08 From  Lee Scheffler  to  Everyone : Can Grakn add inferred query results as new knowledge?  E.g., if I figure out who my cousins are, can it add them as explicit?
+19:46:28 From  Chris Winsor  to  Everyone : What kind of applications do you see as early adopters ?
+19:47:07 From  Alan  to  Everyone : have you seen anyone build root cause analysis apps using this?
+19:47:46 From  Daniel Crowe  to  Everyone : There are a bunch of great examples here - I know Tomás will highlight some: https://www.youtube.com/c/GraknLabs
+19:52:15 From  Daniel Crowe  to  Everyone : v
+19:52:17 From  Daniel Crowe  to  Everyone : https://blog.grakn.ai/grakn-2-0-alpha-best-practices-of-distributed-systems-and-computer-science-960da9a9bc44
+19:56:51 From  Daniel Crowe  to  Everyone : https://www.youtube.com/watch?v=uxZovj2ekIQ&list=PLtEF8_xCPklZQWZVYtfw7K-WuiE_Uk5PE&index=23
+19:56:59 From  Daniel Crowe  to  Everyone : Comparing Graph Dbs to Grakn
+19:58:02 From  Chris Winsor  to  Everyone : I noticed graknlabs Docker - may want to mention that.  How difficult is it to spin up a demo ?
+19:58:39 From  Daniel Crowe  to  Everyone : Really easy Chris - can spin it up on aws azure gcp
+19:59:37 From  Alan  to  Everyone : can the entity relation diagrams be displayed in 3d?
+20:01:48 From  Alan  to  Everyone : many thanks , very cool
