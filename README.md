@@ -6,6 +6,7 @@ For more information about the group, see the Metrowest Boston Developers Machin
 
 | *2021* | Presentation files/links |
 |--------|--------------------------|
+| Sep 29 | Chris Winsor: *Map, Reduce and Filter (stream data processing) with Pandas* [PDF](2021/09/map_filter_reduce_with_Pandas.pdf)
 | Jun 16 | Chris Winsor: *Knowledge Graphs and Embeddings* [PPTX](2021/06/Knowledge_Graphs_and_Embeddings.pptx) [PDF](2021/06/Knowledge_Graphs_and_Embeddings.pdf)
 | Jun 02 | Scott O'Hara: *Innateness, Inductive Bias and AI (Work in Progress)* [PPTX](https://github.com/seohara1955/Presentations/blob/master/mw-defs-ml-grp/2021-06-02/innateness_inductive_bias_ai.pptx) [PDF](https://github.com/seohara1955/Presentations/blob/master/mw-defs-ml-grp/2021-06-02/innateness_inductive_bias_ai.pdf)
 | May 12 | Gene Olafsen: *Kepler - Static Typing and Submitting Code with Git* [PPTX](2021/05/KeplerStaticCodeAndGit.pptx) [PDF](2021/05/KeplerStaticCodeAndGit.pdf)
