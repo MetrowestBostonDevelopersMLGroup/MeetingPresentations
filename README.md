@@ -4,6 +4,19 @@
 
 For more information about the group, see the Metrowest Boston Developers Machine Learning Group [Meetup Page](https://www.meetup.com/Natick-Artificial-Intelligence-Meetup/)
 
+| *2023* | Presentation files/links |
+|--------|--------------------------|
+| Mar 23 | Gene Olafsen: *GPT in 60 lines of NumPy - Part I* [PPTX](2023/03/GPT%20in%2060%20Lines%20of%20NumPy%20-%20Part%20I.pptx) [PDF](2023/03/GPT%20in%2060%20Lines%20of%20NumPy%20-%20Part%20I.pdf)
+
+| *2022* | Presentation files/links |
+|--------|--------------------------|
+| Aug 18 | Gene Olafsen: *Beyond GPT-3* [PPTX](2022/08/Beyond%20GPT-3.pptx) [PDF](2022/08/Beyond%20GPT-3.pdf)
+| Jun  1 | Gene Olafsen: *Machine Learning Backdoors* [PPTX](2022/06/Machine%20Learning%20Backdoors.pptx) [PDF](2022/06/Machine%20Learning%20Backdoors.pdf)
+| May  5 | Gene Olafsen: *Fielding ML Solutions 2022* [PPTX](2022/05/Fielding%20ML%20Solutions%202022.pptx) [PDF](2022/05/Fielding%20ML%20Solutions%202022.pdf)
+| Apr 14 | Gene Olafsen: *Tesla AutoPilot - Part Two* [PPTX](2022/04/Tesla%20AutoPilot%20-%20Part%20Two.pptx) [PDF](2022/04/Tesla%20AutoPilot%20-%20Part%20Two.pdf)
+| Mar 24 | Gene Olafsen: *Tesla AutoPilot - Part One* [PPTX](2022/03/Tesla%20AutoPilot%20-%20Part%20One.pptx) [PDF](2022/03/Tesla%20AutoPilot%20-%20Part%20One.pdf)
+| Feb 17 | Gene Olafsen: *Python Memory Usage and Management* [PPTX](2022/02/Python%20Memory%20Usage%20and%20Management.pptx) [PDF](2022/02/Python%20Memory%20Usage%20and%20Management.pdf)
+
 | *2021* | Presentation files/links |
 |--------|--------------------------|
 | Sep 29 | Chris Winsor: *Map, Reduce and Filter (stream data processing) with Pandas* [PDF](2021/09/map_filter_reduce_with_Pandas.pdf)
