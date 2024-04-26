@@ -4,6 +4,12 @@
 
 For more information about the group, see the Metrowest Boston Developers Machine Learning Group [Meetup Page](https://www.meetup.com/Natick-Artificial-Intelligence-Meetup/)
 
+| *2024* | Presentation files/links |
+|--------|--------------------------|
+| Apr 25 | Gene Olafsen: *Stanford AI Index Report 2024* [PPTX](2024/04/Stanford%20AI%20Index%20Report%202024.pptx) [PDF](2024/04/Stanford%20AI%20Index%20Report%202024.pdf)
+| Apr 25 | Gene Olafsen: *LLM Simple Knowledge Retrieval* [PPTX](2024/04/LLM%20Simple%20Knowledge%20Retrieval.pptx) [PDF](2024/04/LLM%20Simple%20Knowledge%20Retrieval.pdf)
+| Apr 25 | Gene Olafsen: *Effect of AI on Freelancing* [PPTX](2024/04/Effect%20of%20AI%20on%20Freelancing.pptx) [PDF](2024/04/Effect%20of%20AI%20on%20Freelancing.pdf)
+
 | *2023* | Presentation files/links |
 |--------|--------------------------|
 | Mar 23 | Gene Olafsen: *GPT in 60 lines of NumPy - Part I* [PPTX](2023/03/GPT%20in%2060%20Lines%20of%20NumPy%20-%20Part%20I.pptx) [PDF](2023/03/GPT%20in%2060%20Lines%20of%20NumPy%20-%20Part%20I.pdf)
